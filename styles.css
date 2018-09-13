@@ -1,0 +1,16 @@
+body {
+  background: lightgray;
+}
+
+.main {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.today-objectives ul li {
+  margin: 15px 0;
+}
+
+.githubBtn {
+  margin-top: 20px !important;
+}
